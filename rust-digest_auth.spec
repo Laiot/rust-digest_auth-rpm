@@ -7,8 +7,7 @@
 Name:           rust-%{crate}
 Version:        0.3.0
 Release:        %autorelease
-Summary:        Implementation of the Digest Auth algorithm as defined in IETF RFC 2069, 2617, and 7616, intended for HTTP clients
-
+Summary:        Implementation of the Digest Auth algorithm
 # Upstream license specification: MIT
 License:        MIT
 URL:            https://crates.io/crates/digest_auth
